@@ -1,5 +1,7 @@
 package com.siri.assistant.ui
 
+import com.siri.assistant.ResponseState
+
 import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.Animatable
